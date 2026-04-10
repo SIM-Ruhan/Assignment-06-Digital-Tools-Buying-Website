@@ -6,7 +6,9 @@ import Footer from './Footer'
 import StarSection from './StarSection'
 import Models from './Models'
 import Cart from './Cart'
-// import { ToastContainer } from 'react-toastify'
+import StepsSection from './StepsSection'
+import PricingSection from './PricingSection'
+
 //http://localhost:5174/
 function App() {
 
@@ -48,7 +50,8 @@ function App() {
       {activeTab === "Cart" && (
         <Cart carts={carts} setCarts={setCarts}/>
       )}
-
+<StepsSection/>
+<PricingSection/>
       <Footer />
     </>
   )
