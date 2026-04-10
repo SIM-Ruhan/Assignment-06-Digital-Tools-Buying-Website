@@ -2,7 +2,8 @@ DigiTools – AI Model Hub
 
 ---
 
-Description
+Description:
+
 DigiTools is a modern web application that provides users with access to premium AI-powered digital tools, templates and productivity resources—all in one place. It allows users to explore different tools, view features and manage purchases through a simple cart system. This project is designed to simulate a digital marketplace where users can browse AI tools and add them to a cart. It focuses on clean UI/UX, efficient state management, and interactive user experience using React.
 
 ---
@@ -19,18 +20,17 @@ Technologies Used :
 
  3 important Features :
 
- 1. Add to Cart System
+ 1. Add to Cart System :
 
-Users can easily add products to the cart with real-time updates and notifications.
+=> Users can easily add products to the cart with real-time updates and notifications.
 
- 2. Remove & Manage Cart
+ 2. Remove & Manage Cart :
 
-Users can remove individual items and see updated total pricing instantly.
+=> Users can remove individual items and see updated total pricing instantly.
 
- 3. Smart Notifications
+ 3. Smart Notifications :
 
-Toast notifications provide instant feedback when items are added to the cart.
+=> Toast notifications provide instant feedback when items are added to the cart.
 
----
 
 
