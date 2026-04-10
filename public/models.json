@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content using AI tools.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["AI content generation", "Grammar correction", "SEO optimization"],
+    "icon": "https://img.icons8.com/?size=100&id=tb4mhEQTqtJ1&format=png&color=000000"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Access modern and customizable design templates.",
+    "price": 24.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["200+ templates", "Figma & PSD files", "Commercial use"],
+    "icon": "https://img.icons8.com/?size=100&id=18706&format=png&color=000000"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Unlimited access to high-quality stock resources.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Images & videos", "No copyright issues", "Weekly updates"],
+    "icon": "https://img.icons8.com/?size=100&id=roxjQ3SkMgkK&format=png&color=000000"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and workflows easily.",
+    "price": 29.99,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Workflow automation", "Integration support", "Task scheduling"],
+    "icon": "https://img.icons8.com/?size=100&id=66332&format=png&color=000000"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create ATS-friendly resumes with ease.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["100+ templates", "ATS optimization", "PDF export"],
+    "icon": "https://img.icons8.com/?size=100&id=z6faRXwXtVdE&format=png&color=000000"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Create engaging social media posts and campaigns.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Post templates", "Caption generator", "Content calendar"],
+    "icon": "https://img.icons8.com/?size=100&id=33580&format=png&color=000000"
+  },
+  {
+    "id": 7,
+    "name": "Email Marketing Suite",
+    "description": "Design and manage powerful email campaigns.",
+    "price": 11.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Email templates", "Automation", "Analytics dashboard"],
+    "icon": "https://img.icons8.com/?size=100&id=37246&format=png&color=000000"
+  },
+  {
+    "id": 8,
+    "name": "Startup Launch Kit",
+    "description": "Everything you need to launch your startup.",
+    "price": 39.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Business templates", "Pitch deck", "Marketing tools"],
+    "icon": "https://img.icons8.com/?size=100&id=Xvgz6ComUhTH&format=png&color=000000"
+  },
+  {
+    "id": 9,
+    "name": "Analytics Dashboard Pro",
+    "description": "Track and analyze your business performance.",
+    "price": 17.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Real-time data", "Custom reports", "Integration support"],
+    "icon": "https://img.icons8.com/?size=100&id=jqexjjILFgDS&format=png&color=000000"
+  }
+]
