@@ -15,6 +15,7 @@ toast.success('Item added')
     toast.error('Item already added')
   }
 }
+    
 
   return (
     <div className='border border-[#f2f2f2] p-6 rounded-2xl'>

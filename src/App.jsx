@@ -20,8 +20,12 @@ function App() {
       <Navbar carts={carts} />
       <Banner />
       <StarSection />
-    {/* <ToastContainer/> */}
-      {/* Tabs */}
+    <div className="mt-20 text-center">
+        <h2 className='font-extrabold text-4xl'>Premium Digital Tools</h2>
+        <p className="text-[#627382] mt-3">
+          Choose from our curated collection of premium digital products.
+        </p>
+      </div>
       <div className="text-center my-10">
         <div className="tabs tabs-box justify-center bg-transparent">
           <input 

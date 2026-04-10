@@ -12,12 +12,7 @@ const Models = ({ carts, setCarts }) => {
 
   return (
     <div>
-      <div className="mt-20 text-center">
-        <h2 className='font-extrabold text-4xl'>Premium Digital Tools</h2>
-        <p className="text-[#627382] mt-3">
-          Choose from our curated collection of premium digital products.
-        </p>
-      </div>
+      
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-10">
         {models.map(model => (
