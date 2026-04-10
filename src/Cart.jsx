@@ -3,17 +3,17 @@ import { toast } from 'react-toastify';
 
 const Cart = ({ carts, setCarts }) => {
 
-  // Total Price Calculation
+
   const totalPrice = carts.reduce((sum, item) => sum + item.price, 0);
 
-  // Remove Single Item
+
   const handleRemove = (id) => {
     const updatedCart = carts.filter(item => item.id !== id);
     setCarts(updatedCart);
     toast.success("Item removed successfully");
   };
 
-  // Clear Cart (Checkout)
+
   const handlePayment = () => {
     setCarts([]);
         toast.success("Payment confirmed successfully");

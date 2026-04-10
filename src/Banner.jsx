@@ -35,7 +35,7 @@ Explore Products
 
         </div>
 
-        {/* Right Image */}
+
         <div className="relative flex justify-center lg:justify-end">
           <div className="relative">
             <img
