@@ -68,7 +68,7 @@ const PricingSection = () => {
           >
          
             {plan.highlight && (
-              <div className="mb-3 inline-block bg-yellow-300 text-black text-xs px-3 py-1 rounded-full">
+              <div className="mb-3 inline-block bg-[#FEF3C6] text-[#BB4D00] text-xs px-3 py-1 rounded-full">
                 Most Popular
               </div>
             )}
