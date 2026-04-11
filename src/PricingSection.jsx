@@ -56,7 +56,7 @@ const PricingSection = () => {
         Choose the plan that fits your needs. Upgrade or downgrade anytime.
       </p>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-6 md:px-20">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-6 md:px-20 relative">
         {plans.map((plan, index) => (
           <div
             key={index}
@@ -68,7 +68,7 @@ const PricingSection = () => {
           >
          
             {plan.highlight && (
-              <div className="mb-3 inline-block bg-[#FEF3C6] text-[#BB4D00] text-xs px-3 py-1 rounded-full">
+              <div className="mb-3 inline-block bg-[#FEF3C6] text-[#BB4D00] text-xs px-3 py-1 rounded-full relative -top-12">
                 Most Popular
               </div>
             )}

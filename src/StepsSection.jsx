@@ -29,7 +29,7 @@ const StepsSection = () => {
         Start using premium digital tools in minutes, not hours.
       </p>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-6 md:px-40">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 px-6 lg:px-40">
         {steps.map((step) => (
           <div
             key={step.id}

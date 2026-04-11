@@ -1,14 +1,14 @@
 import React from 'react';
 
-const Navbar = () => {
+const Navbar = ({carts}) => {
     return (
-       <div className="lg:px-30 navbar lg:mb-0 mb-5">
+       <div className="xl:px-30 navbar lg:mb-0 mb-5">
   <div className="navbar-start">
     <div className="flex items-center gap-1 font-bold text-xl">
        <h3 className='text-transparent text-3xl bg-clip-text bg-linear-to-t from-[#4F39F6] to-[#9514FA] font-bold'>DigiTools</h3>
     </div>
   </div>
-  <div className="navbar-center hidden md:flex">
+  <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal xl:gap-8 px-1 text-sm">
       <li><a>Products</a></li>
       <li><a>Features</a></li>
@@ -17,8 +17,14 @@ const Navbar = () => {
       <li><a>FAQ</a></li>
     </ul>
   </div>
-  <div className="navbar-end gap-5">
-    <a className=""><i className="fa-solid fa-cart-shopping"></i></a>
+  <div className="navbar-end gap-5 relative">
+    <a className=""><i className="fa-solid fa-cart-shopping"></i>
+    {carts.length > 0 && (
+            <span className="relative -top-3 lg:-top-2 right-1 bg-red-500 text-white text-xs px-1 rounded-full">
+              {carts.length}
+            </span>
+          )}
+    </a>
     <a className="">Login</a>
     <a className="btn bg-red-500 rounded-full text-white">Get in Touch</a>
   </div>
