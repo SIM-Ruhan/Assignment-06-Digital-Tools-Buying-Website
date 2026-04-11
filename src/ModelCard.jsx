@@ -24,7 +24,7 @@ toast.success('Item added')
         <div className="border border-[#F2F2F2] rounded-full">
           <img className='w-12 h-12 p-2' src={model.icon} alt="" />
         </div>
-        <p className="bg-gray-100 px-4 rounded-full flex items-center">
+        <p className={model.class}>
           {model.tag}
         </p>
       </div>

@@ -7,6 +7,7 @@
     "period": "monthly",
     "tag": "popular",
     "tagType": "popular",
+    "class": "bg-[#E1E7FF] text-[#9514FA] px-4 rounded-full flex items-center",
     "features": ["AI content generation", "Grammar correction", "SEO optimization"],
     "icon": "https://img.icons8.com/?size=100&id=tb4mhEQTqtJ1&format=png&color=000000"
   },
@@ -18,6 +19,7 @@
     "period": "yearly",
     "tag": "best seller",
     "tagType": "best seller",
+    "class": "bg-[#FEF3C6] text-[#BB4D00] px-4 rounded-full flex items-center",
     "features": ["200+ templates", "Figma & PSD files", "Commercial use"],
     "icon": "https://img.icons8.com/?size=100&id=18706&format=png&color=000000"
   },
@@ -29,6 +31,7 @@
     "period": "monthly",
     "tag": "popular",
     "tagType": "popular",
+    "class": "bg-[#E1E7FF] text-[#9514FA] px-4 rounded-full flex items-center",
     "features": ["Images & videos", "No copyright issues", "Weekly updates"],
     "icon": "https://img.icons8.com/?size=100&id=roxjQ3SkMgkK&format=png&color=000000"
   },
@@ -40,6 +43,7 @@
     "period": "yearly",
     "tag": "new",
     "tagType": "new",
+    "class": "bg-[#DBFCE7] text-[#0A883E] px-4 rounded-full flex items-center",
     "features": ["Workflow automation", "Integration support", "Task scheduling"],
     "icon": "https://img.icons8.com/?size=100&id=66332&format=png&color=000000"
   },
@@ -51,6 +55,7 @@
     "period": "monthly",
     "tag": "best seller",
     "tagType": "best seller",
+    "class": "bg-[#FEF3C6] text-[#BB4D00] px-4 rounded-full flex items-center",
     "features": ["100+ templates", "ATS optimization", "PDF export"],
     "icon": "https://img.icons8.com/?size=100&id=z6faRXwXtVdE&format=png&color=000000"
   },
@@ -62,6 +67,7 @@
     "period": "monthly",
     "tag": "popular",
     "tagType": "popular",
+    "class": "bg-[#E1E7FF] text-[#9514FA] px-4 rounded-full flex items-center",
     "features": ["Post templates", "Caption generator", "Content calendar"],
     "icon": "https://img.icons8.com/?size=100&id=33580&format=png&color=000000"
   },
@@ -73,6 +79,7 @@
     "period": "monthly",
     "tag": "new",
     "tagType": "new",
+    "class": "bg-[#DBFCE7] text-[#0A883E] px-4 rounded-full flex items-center",
     "features": ["Email templates", "Automation", "Analytics dashboard"],
     "icon": "https://img.icons8.com/?size=100&id=37246&format=png&color=000000"
   },
@@ -84,6 +91,7 @@
     "period": "one-time",
     "tag": "best seller",
     "tagType": "best seller",
+    "class": "bg-[#FEF3C6] text-[#BB4D00] px-4 rounded-full flex items-center",
     "features": ["Business templates", "Pitch deck", "Marketing tools"],
     "icon": "https://img.icons8.com/?size=100&id=Xvgz6ComUhTH&format=png&color=000000"
   },
@@ -95,6 +103,7 @@
     "period": "monthly",
     "tag": "popular",
     "tagType": "popular",
+    "class": "bg-[#E1E7FF] text-[#9514FA] px-4 rounded-full flex items-center",
     "features": ["Real-time data", "Custom reports", "Integration support"],
     "icon": "https://img.icons8.com/?size=100&id=jqexjjILFgDS&format=png&color=000000"
   }
